@@ -21,7 +21,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
  		<h5>Organizer(s)</h5>
  	</div> -->
  </div>
- 
+
   <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!--<p><a href="/program/workshops/casp_er" target="_blank">CASP:ER</a></p>-->
@@ -34,7 +34,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
  		<p>TBD</p>
  	</div> -->
  </div>
- 
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!--<p><a href="/program/workshops/genplan" target="_blank">GenPlan</a></p>-->
@@ -47,7 +47,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
  		<p>TBD</p>
  	</div> -->
  </div>
- 
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!--<p><a href="/program/workshops/haxp" target="_blank">HAXP</a></p>-->
@@ -60,7 +60,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
  		<p>TBD</p>
  	</div> -->
  </div>
- 
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!--<p><a href="/program/workshops/hplan" target="_blank">HPlan</a></p>-->
@@ -73,7 +73,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
  		<p>TBD</p>
  	</div> -->
  </div>
- 
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!--<p><a href="/program/workshops/hsdip" target="_blank">HSDIP</a></p>-->
@@ -86,7 +86,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
  		<p>TBD</p>
  	</div> -->
  </div>
-  
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<p><a href="/program/workshops/keps" target="_blank">KEPS</a></p>
@@ -102,8 +102,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
 
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
- 		<!--<p><a href="/program/workshops/lm4plan" target="_blank">LM4Plan</a></p>-->
-		<p><strong>LM4Plan</strong></p>
+ 		<p><a href="/program/workshops/lm4plan" target="_blank">LM4Plan</a></p>
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
 		<p><strong>Planning in the Era of Large Language Models</strong></p>
@@ -112,7 +111,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
  		<p>TBD</p>
  	</div> -->
  </div>
- 
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!--<p><a href="/program/workshops/planrob" target="_blank">PlanRob</a></p>-->
@@ -125,11 +124,11 @@ Here is the list of the worskhops accepted to ICAPS 2026
  		<p>TBD</p>
  	</div> -->
  </div>
- 
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!--<p><a href="/program/workshops/pr_bgi" target="_blank">PR-BGI</a></p> -->
-		<p><strong>PR-BGI</strong></p> 
+		<p><strong>PR-BGI</strong></p>
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Planning and Reasoning about Beliefs, Goals and Intentions</strong></p>
@@ -138,7 +137,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
  		<p>TBD</p>
  	</div> -->
  </div>
- 
+
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!--<p><a href="/program/workshops/prl" target="_blank">PRL</a></p>-->
@@ -168,7 +167,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
  		<!-- <p><a href="/program/workshops/rpg" target="_blank">RPG</a></p> -->
-		<p><strong>RPG</strong></p> 
+		<p><strong>RPG</strong></p>
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Roles of Planning in Games</strong></p>
