@@ -98,7 +98,7 @@ At least one author of each accepted paper must attend the workshop in order to 
 * [Chenyuan Zhang](https://sites.google.com/view/chenyuanzhang) | Monash University, Australia
 <!-- * [Pulkit Verma](https://pulkitverma.net) | Massachusetts Institute of Technology, USA -->
 
-## Extended Program Committee
+<!-- ## Extended Program Committee -->
 
 <!-- * [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/) | Australian National University, Australia
 * [Daniel Fišer](https://danfis.cz/) | Aalborg University, Denmark
