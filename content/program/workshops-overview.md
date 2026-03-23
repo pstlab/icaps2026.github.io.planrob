@@ -75,8 +75,8 @@ Here is the list of the worskhops accepted to ICAPS 2026
 
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
- 		<!--<p><a href="/program/workshops/hsdip">HSDIP</a></p>-->
-		<p><strong>HSDIP</strong></p>
+ 		<p><a href="/program/workshops/hsdip">HSDIP</a></p>
+		<!--<p><strong>HSDIP</strong></p>-->
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Heuristics and Search for Domain-independent Planning</strong></p>
