@@ -29,6 +29,12 @@ The workshop will focus on research related to all aspects of learning, generali
 - Learning domain control knowledge and partial policies.
 - Representation of solution structures that enable generalization and transfer.
 
+## Keynote Speakers
+
+- [David Abel](https://david-abel.github.io/), Google DeepMind & University of Edinburgh
+- [Anders Jonsson](https://www.upf.edu/web/anders-jonsson), Universitat Pompeu Fabra
+- [Tom Silver](https://tomsilver.github.io/), Princeton University
+
 ## Submission Instructions
 
 Submissions can describe either work in progress or mature work that would be of interest to researchers working on generalization in planning. We also welcome “highlights” papers summarizing and highlighting results from multiple recent papers by the authors. Preference will be given to new work (including highlights) and work in progress rather than exact resubmissions of previously published work.
