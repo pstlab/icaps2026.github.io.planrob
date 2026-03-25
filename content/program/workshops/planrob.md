@@ -51,11 +51,11 @@ Important goals of the workshop are the discussion of solutions, results, open i
 ## Important Dates
 
 - Submission Deadline: April 20, 2026 (AoE)
-- Author Notification: May 5, 2026
+- Author Notification: May 15, 2026
 - Camera-Ready Deadline: June 5, 2023
 - ICAPS 2026 Workshops: June 28-29, 2026
 
-Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). **You will still be able to upload/update your paper until April 3 (AoE).**
+Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). 
 
 
 ## Submission Instructions
@@ -66,7 +66,7 @@ There are two types of submissions:
 
 Papers may have an additional page containing references. Regular papers may be scheduled with more time in the final program. A poster session may be considered to provide a further presentation opportunity.
 
-The guidelines for formatting are the same as is used for ICAPS 2026 papers as described at: [http://www.aaai.org/Publications/Author/author.php](http://www.aaai.org/Publications/Author/author.php)), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system ([https://easychair.org/conferences/?conf=icapswsplanrob24](https://easychair.org/conferences/?conf=icapswsplanrob26)).
+The guidelines for formatting are the same as is used for ICAPS 2026 papers as described at: [http://www.aaai.org/Publications/Author/author.php](http://www.aaai.org/Publications/Author/author.php)), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system ([https://easychair.org/conferences/?conf=planrob26](https://easychair.org/conferences/?conf=planrob26)).
 
 Please note that papers under review (e.g. which have been submitted to IJCAI-2026) are also welcome, however, in order to avoid potential conflicts, these manuscripts should be prepared as anonymous submissions for a double blind reviewing process.
 
