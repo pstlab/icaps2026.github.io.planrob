@@ -20,7 +20,7 @@ The link provided covers the interval from June 26th (check-in) to July 3rd (che
 If you want to book a longer stay with some nights outside this time interval, do the following:
 - Use the link provided here to book your selected nights within the interval June 26th to July 3rd at the negotiated rate within the block of bedrooms reserved.
 - Book your extra nights separately.
-- Inform the hotel so that they can allocate the same room for the entire stay.
+- Optionally inform the hotel at your earliest convenience so that they can allocate the same room for the entire stay.
 
 
 
