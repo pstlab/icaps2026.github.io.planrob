@@ -6,8 +6,9 @@ draft: false
 
 # Attendance Support
 
-ICAPS secured funding from sponsors to support participation at the conference. The support is **primarely targeted to students actively participating at ICAPS**, but we will also consider other applicants.
-The exact support depends on the amount collected from sponsors, details in each application, and the number of applicants. 
+ICAPS secured funding from sponsors to support participation at the conference. The support is **primarily targeted at students and young researchers actively participating in ICAPS, including underrepresented communities**, but we will also consider other applicants.
+The exact support depends  on the amount collected from sponsors, the details in each application,  and the number of applicants.
+
 
 Please apply for support by submitting a request through: 
 <div style="width: 100%; padding: 1%; text-align: center;">
@@ -26,7 +27,8 @@ The form requires the following information:
 * a short statement of your work and alignment with ICAPS;
 * a proposed budget and why support is needed;
 * a recommendation letter (in PDF) signed by your supervisor/advisor;
-* other general information (details in the form)
+* a student ID card or a letter (in PDF) if you are a student;
+* other general information (details in the form).
 
 **The deadline for applying is April 13, 2026 (AoE)**. 
 
