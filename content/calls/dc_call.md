@@ -84,7 +84,7 @@ Students who require an early decision for visa purposes are encouraged to conta
 
 All deadlines will use UTC-12 as the reference timezone (i.e., the deadline has not passed as long as there is still time anywhere in the world). Exact dates will be announced on the ICAPS 2026 website.
 
-- **Application submission deadline:** March 9, 2026  
+- **Application submission deadline:** ~~March 9, 2026~~  
 - **Notification date:** March 27, 2026
 - **Doctoral Consortium day at ICAPS 2026:** June 27, 2026
 
