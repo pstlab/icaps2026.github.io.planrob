@@ -20,7 +20,7 @@ anywhere in the world.
 - ~~February 20, 2026:~~ Notification of acceptance
 - ~~March 2, 2026:~~ LaunchPad Program applications due
 - ~~March 2, 2026:~~ Doctoral Consortium applications due
-- **March 18, 2026:** Previously Published Research due
+- ~~March 18, 2026:~~ Previously Published Research due
 - **March 30, 2026:** Workshops materials online
 - **March 31, 2026:** System Demonstrations due
 - **April 21, 2026:** Summer school registration deadline (incl. accommodation)
@@ -36,7 +36,7 @@ anywhere in the world.
 
 - **June 22 - June 25** - ICAPS 2026 Summer School
 - **June 27** - ICAPS 2026 Doctoral Consortium
-- **June 27 - June 28** - ICAPS 2026 Workshops & Tutorials
+- **June 28 - June 29** - ICAPS 2026 Workshops & Tutorials
 - **June 27 - July 2** - ICAPS 2026 Conference
 
 

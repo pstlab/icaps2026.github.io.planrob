@@ -6,20 +6,5 @@ draft: false
 
 # Workshop on Hierarchical Planning (HPlan)
 
-## Aim and Scope of the Workshop
 
-
-
-## Topics of Interest
-
-
-
-
-## Submission Instructions
-
-
-
-
-
-## Organizing Committee
-
+Please see <a href="http://hplan2026.hierarchical-task.net/" target="_blank">here</a> for more details.

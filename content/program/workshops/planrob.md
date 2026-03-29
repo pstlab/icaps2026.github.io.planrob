@@ -66,7 +66,7 @@ There are two types of submissions:
 
 Papers may have an additional page containing references. Regular papers may be scheduled with more time in the final program. A poster session may be considered to provide a further presentation opportunity.
 
-The guidelines for formatting are the same as is used for ICAPS 2026 papers as described at: [http://www.aaai.org/Publications/Author/author.php](http://www.aaai.org/Publications/Author/author.php)), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system ([https://easychair.org/conferences/?conf=icapswsplanrob24](https://easychair.org/conferences/?conf=icapswsplanrob26)).
+The guidelines for formatting are the same as is used for ICAPS 2026 papers as described at: [http://www.aaai.org/Publications/Author/author.php](http://www.aaai.org/Publications/Author/author.php)), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system ([https://easychair.org/conferences/?conf=planrob26](https://easychair.org/conferences/?conf=planrob26)).
 
 Please note that papers under review (e.g. which have been submitted to IJCAI-2026) are also welcome, however, in order to avoid potential conflicts, these manuscripts should be prepared as anonymous submissions for a double blind reviewing process.
 

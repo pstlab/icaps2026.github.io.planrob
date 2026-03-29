@@ -100,12 +100,12 @@ languageCode = 'en_US'
   #   url = "/attending/venue"
   #   parent = "attending"
   #   weight = 10
-  # [[menu.main]]
-  #   identifier = "visa"
-  #   name = "Visa"
-  #   url = "/attending/visa"
-  #   parent = "attending"
-  #   weight = 10
+  [[menu.main]]
+    identifier = "support"
+    name = "Support"
+    url = "/attending/support"
+    parent = "attending"
+    weight = 50
 #  [[menu.main]]
 #    identifier = "visit_vic"
 #    name = "Discover Victoria"
