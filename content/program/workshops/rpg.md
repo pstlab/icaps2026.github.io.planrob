@@ -21,8 +21,8 @@ Please send any inquiries to: rpg26@easychair.org
 
 ## Important Dates
 
-* Paper submission deadline: May 4th, 2026 
-* Notification of acceptance: June 11th, 2026 
+* Paper submission deadline: **May 4th**, 2026 
+* Notification of acceptance: **June 11th**, 2026 
 * Workshop date: June 28/29 (TBD), 2026
 
 The reference timezone for all deadlines is **UTC-12**. That is, as long as there is still some place anywhere in the world where the deadline has not yet passed, you are on time!
