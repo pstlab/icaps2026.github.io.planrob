@@ -9,7 +9,7 @@ draft: false
 Visit [https://llmforplanning.github.io/](https://llmforplanning.github.io/ICAPS26/) for up-to-date information.
 ICAPS’26 Workshop,
 Dublin, Ireland
-Date: June 27 or 28, 2026
+Date: June 28 or 29 2026
 
 # Overview
 Language Models (LMs) are a disruptive force, changing how research was done in many subareas of AI. Planning is one of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LMs can contribute to planning, how LMs can/should be used, what the pitfalls of using LMs are and what guarantees can be obtained.
