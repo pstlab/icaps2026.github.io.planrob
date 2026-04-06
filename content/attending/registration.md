@@ -6,7 +6,7 @@ draft: false
 
 # Conference Registration
 
-Early registration deadline is May 5th 2026.  The link to the registration system will be provided shortly.
+Early registration deadline is May 5th 2026. You can access the registration page <a href="https://na.eventscloud.com/icaps2026" target="_blank">here</a>.
 
 Here are the fees in Euro:
 
@@ -38,14 +38,16 @@ Here are the fees in Euro:
   </tbody>
 </table>
 
+Significant additional support for students and underrepresented categories is available, subject to an application and selection process, as described [here](attending/support/).
+
 </br>
 
 Registration includes access to all conference events (including workshops and tutorials), opening ceremony at The Clayton Hotel Burlington Road, social event at The Guinness Storehouse, two coffee breaks per day from 27th of June to 2nd of July inclusive, lunch from 27th of June to 2nd of July inclusive. Bottled filtered still and sparkling water is provided as well. Summer School attendance is not included in this registration.
 
-On June 27th, 28th and 29th the lunch includes the Chef’s Selection of Sandwiches, Soup, and Tea & Coffee (or possibly a replacement to tea & coffee).
+<!--On June 27th, 28th and 29th the lunch includes the Chef’s Selection of Sandwiches, Soup, and Tea & Coffee (or possibly a replacement to tea & coffee).
 
 On June 30th, July 1st and July 2nd we have a Buffet Lunch (1 Main Course & 1 Vegan Main Course) served with Seasonal Vegetables, Rice & Potatoes, Tea & Coffee (or possibly a replacement to tea & coffee).
 
 Gluten free options will be available during coffee breaks and lunch. Labels with allergens will be displayed for all items or delegates can speak directly with a team member who can advise on suitable items.
 
-Additional food constraints can be specified in the registration form, and we will consider them if possible.
+Additional food constraints can be specified in the registration form, and we will consider them if possible.-->
