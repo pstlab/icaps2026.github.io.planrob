@@ -10,7 +10,7 @@ Co-located workshop at ICAPS'26  \
 Dublin, Ireland \
 June 28, 2026
 
-
+Paper submission deadline extended to 2nd of May, 2026.
 
 ## Aim and Scope of the Workshop
 
@@ -50,8 +50,8 @@ Important goals of the workshop are the discussion of solutions, results, open i
 
 ## Important Dates
 
-- Submission Deadline: April 20, 2026 (AoE)
-- Author Notification: May 5, 2026
+- *Extended Submission Deadline*: May 2, 2026 (AoE) (was April 20, 2026)
+- *Extedend Author Notification*: May 30, 2026 (was May 5, 2026)
 - Camera-Ready Deadline: June 5, 2026
 - ICAPS 2026 Workshops: June 28-29, 2026
 
