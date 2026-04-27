@@ -32,7 +32,7 @@ We particularly encourage submissions leveraging small and open-weight language 
 
 
 # Important Dates
-- Paper submission deadline: **May 1st, 2026, AoE**
+- Paper submission deadline: ~~May 1st, 2026, AoE~~ **May 8th, 2026, AoE**
 - Paper acceptance notification: **June 2nd, 2026, AoE**
 
 ICAPS will be **in-person** this year. **Authors of accepted workshop papers are expected to register for the workshop, physically attend the conference and present in person.** All accepted papers will have an **oral presentation**.
