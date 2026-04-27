@@ -447,12 +447,12 @@ languageCode = 'en_US'
     identifier = "organisation"
     name = "Committees"
     weight = 9000
-  # [[menu.main]]
-  #   identifier = "pc"
-  #   name = "Program Committee"
-  #   url = "/organisation/program_committees"
-  #   parent = "organisation"
-  #   weight = 100
+  [[menu.main]]
+     identifier = "pc"
+     name = "Program Committee"
+     url = "/organisation/program_commitee"
+     parent = "organisation"
+     weight = 100
   [[menu.main]]
     identifier = "conference_chairs"
     name = "Organizers"
