@@ -64,6 +64,10 @@
 					    "institution": "University of Amsterdam"
 					  },
 					  {
+					    "name": "Kostas Bekris",
+					    "institution": "Rutgers University"
+					  },
+					  {
 					    "name": "Gleb Belov",
 					    "institution": "Monash University"
 					  },
@@ -73,7 +77,7 @@
 					  },
 					  {
 					    "name": "Gloria Beraldo",
-					    "institution": "National Research Council of Italy (ISTC-CNR) & University of Padova"
+					    "institution": "National Research Council of Italy (ISTC-CNR)"
 					  },
 					  {
 					    "name": "Pascal Bercher",
@@ -166,6 +170,10 @@
 					  {
 					    "name": "Francesco Chiariello",
 					    "institution": "RWTH Aachen University"
+					  },
+					  {
+					    "name": "Howie Choset",
+					    "institution": "Carnegie Mellon"
 					  },
 					  {
 					    "name": "Lukas Chrpa",
@@ -332,6 +340,10 @@
 					    "institution": "Federal University of Rio Grande do Sul"
 					  },
 					  {
+					    "name": "Timo P. Gros",
+					    "institution": "German Research Center for Artificial Intelligence (DFKI)"
+					  },
+					  {
 					    "name": "Christophe Guettier",
 					    "institution": "SAFRAN"
 					  },
@@ -409,7 +421,7 @@
 					  },
 					  {
 					    "name": "Erez Karpas",
-					    "institution": "Technion - Israel Institute of Technology"
+					    "institution": "Technion - Israel Institute of Technology  / The University of Texas at Austin"
 					  },
 					  {
 					    "name": "Michael Katz",
@@ -445,7 +457,7 @@
 					  },
 					  {
 					    "name": "Anagha Kulkarni",
-					    "institution": "Invitae"
+					    "institution": "JPMorganChase"
 					  },
 					  {
 					    "name": "Ryo Kuroiwa",
@@ -805,7 +817,7 @@
 					  },
 					  {
 					    "name": "Alexey Skrynnik",
-					    "institution": "AIRI, FRC CSC RAS"
+					    "institution": "CogAI Lab, MIRAI"
 					  },
 					  {
 					    "name": "Pieter Smet",
@@ -968,6 +980,10 @@
 					    "institution": "Amazon"
 					  },
 					  {
+					    "name": "Lin Xie",
+					    "institution": "Brandenburg University of Technology"
+					  },
+					  {
 					    "name": "Konstantin Yakovlev",
 					    "institution": "FRC CSC RAS"
 					  },
@@ -1087,10 +1103,6 @@
 				  {
 				    "name": "Robert Gieselmann",
 				    "institution": "Amazon"
-				  },
-				  {
-				    "name": "Timo P. Gros",
-				    "institution": "German Research Center for Artificial Intelligence (DFKI)"
 				  },
 				  {
 				    "name": "Claudia Grundke",
