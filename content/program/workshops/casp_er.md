@@ -17,8 +17,8 @@ This year's edition is the second edition of CASP:ER -- the first one was held a
 ## Important Dates
 This year's second edition of CASP:ER will be held on June 28th or 29th, 2026, as a workshop co-located with ICAPS 2026.
 Important dates
- - Paper submission:  ~~April 27th~~ May 5th, 2026
- - Notification:    	May 18th, 2026
+ - Paper submission:  ~~April 27th~~ ~~May 5th, 2026~~ May 12th, 2026
+ - Notification:    	May 25th, 2026
  - Camera-ready:    	June 1st, 2026
  - Workshop: June 28th or 29th, 2026
 
