@@ -21,7 +21,7 @@ Please send any inquiries to: rpg26@easychair.org
 
 ## Important Dates
 
-* Paper submission deadline: **May 4th**, 2026 
+* Paper submission deadline: ~~May 4th~~ **May 11th**, 2026 
 * Notification of acceptance: **June 11th**, 2026 
 * Workshop date: June 28/29 (TBD), 2026
 
@@ -38,6 +38,9 @@ Topics include, but are not limited to:
 * **Plan, Activity, and Goal Recognition**: Inferring player intent to adapt game difficulty or content dynamically.
 * **Procedural Content Generation**: Constraint-based planning for generating game content such as solvable levels, puzzles, and narratives.
 * **Planning for Game Design**: Applications of APS to game or level design for videogames and/or tabletop games.
+* **Representing Games as Planning Problems**: Modeling game domains for (semi-) automated problem solving systems.
+* **Tools for Planning in Games**: Software or libraries using games that make use of planning.
+
 
 
 ## Submission Instructions

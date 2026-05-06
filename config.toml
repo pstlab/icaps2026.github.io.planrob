@@ -118,18 +118,18 @@ languageCode = 'en_US'
 #    url = "/attending/visit_melbourne"
 #    parent = "attending"
 #    weight = 50
-#  [[menu.main]]
-#    identifier = "travel"
-#    name = "Travel Information"
-#    url = "/attending/travel"
-#    parent = "attending"
-#    weight = 20
+ [[menu.main]]
+   identifier = "travel"
+   name = "Travel Information"
+   url = "/attending/travel"
+   parent = "attending"
+   weight = 30
   [[menu.main]]
     identifier = "registration"
     name = "Registration"
     url = "/attending/registration"
     parent = "attending"
-    weight = 30
+    weight = 40
 #  [[menu.main]]
 #    identifier = "info"
 #    name = "General Info"
@@ -260,12 +260,12 @@ languageCode = 'en_US'
 #   url = "/program/overview"
 #   parent = "program"
 #   weight = 10
-# [[menu.main]]
-#   identifier = "schedule"
-#   name = "Schedule"
-#   url = "/program/schedule"
-#   parent = "program"
-#   weight = 13
+[[menu.main]]
+  identifier = "schedule"
+  name = "Schedule"
+  url = "/program/schedule"
+  parent = "program"
+  weight = 13
 [[menu.main]]
   identifier = "accepted-papers"
   name = "Accepted Papers"
@@ -309,12 +309,12 @@ languageCode = 'en_US'
     url = "/program/workshops-overview"
     weight = 40
 ######################### TUTORIALS
-# [[menu.main]]
-#    identifier = "tutorials"
-#    parent = "program"
-#    name = "Tutorials"
-#    url = "/program/tutorial_overview"
-#    weight = "50"
+[[menu.main]]
+   identifier = "tutorials"
+   parent = "program"
+   name = "Tutorials"
+   url = "/program/tutorials-overview"
+   weight = "50"
 # [[menu.main]]
 #    identifier = "plan_sat"
 #    name = "Planning as SAT"
@@ -447,12 +447,12 @@ languageCode = 'en_US'
     identifier = "organisation"
     name = "Committees"
     weight = 9000
-  # [[menu.main]]
-  #   identifier = "pc"
-  #   name = "Program Committee"
-  #   url = "/organisation/program_committees"
-  #   parent = "organisation"
-  #   weight = 100
+  [[menu.main]]
+     identifier = "pc"
+     name = "Program Committee"
+     url = "/organisation/program_commitee"
+     parent = "organisation"
+     weight = 100
   [[menu.main]]
     identifier = "conference_chairs"
     name = "Organizers"

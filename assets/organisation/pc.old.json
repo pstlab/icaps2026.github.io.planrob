@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "position": "Topic Chairs",
+            "people": [
+
+            ]
+        },
+        {
+            "position": "Area Chairs",
+            "people": [
+
+            ]
+        },
+        {
+            "position": "Reviewers",
+            "people": [
+            ]
+        }
+    ],
+    "staging": [
+        {
+                    "topic": "Machine Learning",
+                    "name": "Forest Agostinelli",
+                    "institution": "University of South Carolina"
+        }
+    ]
+}

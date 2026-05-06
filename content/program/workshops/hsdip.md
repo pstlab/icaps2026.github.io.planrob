@@ -10,7 +10,7 @@ draft: false
 
 | Schedule            |          |
 |---------------------|----------|
-| Submission          | May 7, 2026 |
+| Submission          | ~~May 7, 2026~~ May 14, 2026 |
 | Notification        | May 28, 2026|
 | Camera Ready        | June 8, 2026 |
 | Workshop            | June 28-29, 2026 |

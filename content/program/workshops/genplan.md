@@ -8,6 +8,10 @@ draft: false
 
 Official Website: [https://aair-lab.github.io/genplan26](https://aair-lab.github.io/genplan26)
 
+The paper deadline has been extended to **May 15, 2026** (11:59 PM AoE).
+
+Please submit your paper through OpenReview: [https://bit.ly/SubmitToGenPlan26](https://bit.ly/SubmitToGenPlan26).
+
 ## Aim and Scope of the Workshop
 
 Generalization and transfer are essential components of intelligence, and significant research efforts have been dedicated to addressing these challenges in sequential decision-making. However, this research is often fragmented across largely parallel research communities such as AI planning, reinforcement learning, model learning, robotics, etc. Recent advances in deep reinforcement learning and generative AI have led to data-driven methods that are effective for short-horizon reasoning and decision-making, with open problems regarding sample efficiency, guarantees of correctness, and applicability to long-horizon settings. Conversely, the AI planning community has made complementary strides, developing robust analytical methods that enable sample-efficient generalization and transferability in long-horizon planning, with open problems in designing and modeling the necessary representations.
@@ -54,7 +58,7 @@ Submissions may use as many pages of appendices (after the references) as they w
 Now accepting submissions through OpenReview: [https://bit.ly/SubmitToGenPlan26](https://bit.ly/SubmitToGenPlan26).
 
 ## Important Dates
-- Paper Submission Deadline: May 1, 2026
+- Paper Submission Deadline: ~~May 1, 2026~~ May 15, 2026 (11:59 PM AoE)
 - Author Notification: June 8, 2026
 - Camera-ready Version Due: TBD
 - Workshop: June 28 or 29, 2026
