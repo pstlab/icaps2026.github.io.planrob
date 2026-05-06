@@ -259,13 +259,13 @@ draft: false
 <div class="session-block">
 
 <div class="paper-item">
-<strong>Optimal Solutions for the Moving Target Vehicle Routing Problem via Branch-and-Price with Relaxed Continuity</strong><br/>
-<em>Anoop Bhat, Geordan Gutow, Zhongqiang Ren, Sivakumar Rathinam and Howie Choset</em>
+<strong>A Constraint Formulation for Domain Repair with Ground or Lifted Test Plans</strong><br/>
+<em>Nika Beriachvili and Arthur Bit-Monnot</em>
 </div>
 
 <div class="paper-item">
-<strong>Optimal Path Planning in Hostile Environments</strong><br/>
-<em>Andrzej Kaczmarczyk, Šimon Schierreich, Nicholas Axel Tanujaya and Haifeng Xu</em>
+<strong>Automated Planning Instance Generation with Neuro-Symbolic AI</strong><br/>
+<em>Carlos Núñez-Molina, Pablo Mesejo and Juan Fernández-Olivares</em>
 </div>
 
 </div>
@@ -275,13 +275,13 @@ draft: false
 <div class="session-block">
 
 <div class="paper-item">
-<strong>A Constraint Formulation for Domain Repair with Ground or Lifted Test Plans</strong><br/>
-<em>Nika Beriachvili and Arthur Bit-Monnot</em>
+<strong>Optimal Solutions for the Moving Target Vehicle Routing Problem via Branch-and-Price with Relaxed Continuity</strong><br/>
+<em>Anoop Bhat, Geordan Gutow, Zhongqiang Ren, Sivakumar Rathinam and Howie Choset</em>
 </div>
 
 <div class="paper-item">
-<strong>Automated Planning Instance Generation with Neuro-Symbolic AI</strong><br/>
-<em>Carlos Núñez-Molina, Pablo Mesejo and Juan Fernández-Olivares</em>
+<strong>Optimal Path Planning in Hostile Environments</strong><br/>
+<em>Andrzej Kaczmarczyk, Šimon Schierreich, Nicholas Axel Tanujaya and Haifeng Xu</em>
 </div>
 
 </div>
