@@ -60,7 +60,7 @@ Note that at the date of the submission deadline, all papers need to be register
 ## Invited Talk by [NICK HAWES](https://eng.ox.ac.uk/people/nick-hawes)
 ![Nick](nick-hawes-happy.jpeg)
 
-<img src="nick-hawes-happy.jpeg" alt="Alt Text" width="300" height="200">
+<img src="nick-hawes-happy.jpeg" alt="Alt Text" width="300">
 
 Title: Long-Range Underwater Glider Planning Under Uncertainty
 
