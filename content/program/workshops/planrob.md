@@ -8,7 +8,7 @@ draft: false
 
 Co-located workshop at ICAPS'26  \
 Dublin, Ireland \
-June 28, 2026
+June 29, 2026
 
 Paper submission deadline extended to 2nd of May, 2026.
 
@@ -70,6 +70,13 @@ The guidelines for formatting are the same as is used for ICAPS 2026 papers as d
 
 Please note that papers under review (e.g. which have been submitted to IJCAI-2026) are also welcome, however, in order to avoid potential conflicts, these manuscripts should be prepared as anonymous submissions for a double blind reviewing process.
 
+
+## Invited Talk by [NICK HAWES](https://eng.ox.ac.uk/people/nick-hawes)
+Title: Long-Range Underwater Glider Planning Under Uncertainty
+
+Abstract: Underwater gliders are workhorses of ocean sampling. They’re slow but energy-efficient, capable of operating for many months at sea. However, they're notoriously hard to pilot: glider dynamics are uncertain and strongly influenced by ocean currents (which are also hard to forecast), and glilders are only in contact with operators during brief surfacing windows between dives. Therefore the long-term autonomous operation of gliders fleets has remained largely aspirational, with most missions still leaning heavily on human pilots. In this talk I'll present GALE, the Glider Autonomy Long-term Planning Engine, which treats glider piloting as a stochastic shortest-path MDP and solves it online with Monte Carlo Tree Search (MCTS). The MCTS samples are drawn from a physics-informed simulator whose parameters are fitted to historical glider data, capturing both control-execution noise and ocean-current forecast uncertainty while staying cheap enough to roll out at every surfacing. I'll describe how the system was deployed in two North Sea missions totalling around three months and 1000 km of fully autonomous operation (to date the most extensive deployment of online glider navigation planning) and what we learned about where model-based probabilistic planning outperforms simpler baselines.
+ 
+bio-sketch: Nick Hawes is a Professor of AI and Robotics in the [Department of Engineering Science]([url](https://eng.ox.ac.uk/)) at the [University of Oxford]([url](https://www.ox.ac.uk/)), where he directs the [Oxford Robotics Institute (ORI)]([url](https://ori.ox.ac.uk/)), a federation of eight research groups. He is also a Tutorial Fellow at [Pembroke College]([url](https://pmb.ox.ac.uk/)). Within ORI, he leads the [Goal-Oriented Autonomous Long-Lived Systems (GOALS)]([url](https://ori.ox.ac.uk/groups/goals)) group, researching sequential decision-making for autonomous systems and multi-agent teams. He has led world-first deployments of AI-controlled robots, including long-term autonomous mobile robots in care and security, quadrupeds inspecting active nuclear sites, and AUVs gathering data on underwater ecosystems. He is a member of the [UK Government's Robotics Advisory Group]([url](https://www.gov.uk/government/groups/robotics-advisory-group)), an Associate Editor of the [Journal of AI Research]([url](https://www.jair.org/)), a Senior Member of [AAAI]([url](https://aaai.org/)), and Chief Scientist of [Stateful Robotics]([url](https://statefulrobotics.com/)).
 
 ### Workshop Proceedings
 
