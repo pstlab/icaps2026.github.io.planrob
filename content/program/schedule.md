@@ -422,8 +422,8 @@ draft: false
 </div>
 
 <div class="paper-item">
-<strong>Discrete-Guided Diffusion for Scalable and Safe Multi-Robot Motion Planning</strong><br/>
-<em>Jinhao Liang, Sven Koenig and Ferdinando Fioretto</em>
+<strong>Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning</strong><br/>
+<em>Emanuele Musumeci, Michele Brienza, Francesco Argenziano, Abdel Hakim Drid, Vincenzo Suriani, Daniele Nardi, and Domenico D. Bloisi</em>
 </div>
 
 </div>
@@ -810,8 +810,8 @@ draft: false
 </div>
 
 <div class="paper-item">
-<strong>ACDC: Adaptive Curriculum Planning with Dynamic Contrastive Control for Goal-Conditioned Reinforcement Learning in Robotic Manipulation</strong><br/>
-<em>Xuerui Wang, Guangyu Ren, Tianhong Dai, Bintao Hu, Shuangyao Huang, Wenzhang Zhang and Hengyan Liu</em>
+<strong>Concrete multi-agent path planning enabling kinodynamically aggressive maneuvers</strong><br/>
+<em>Keisuke Okumura, Guang Yang, Zhan Gao, Heedo Woo and Amanda Prorok </em>
 </div>
 
 <div class="paper-item">
