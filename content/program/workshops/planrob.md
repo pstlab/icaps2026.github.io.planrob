@@ -67,7 +67,7 @@ Note that at the date of the submission deadline, all papers need to be register
 *Bio-sketch*: Steve Chien is a Technical Fellow in Artificial Intelligence and Co-head of the [Artificial Intelligence Group](https://ai.jpl.nasa.gov/) at the Jet Propulsion Laboratory, California Institute of Technology. He has spent decades deploying AI/Autonomy to numerous space missions including: Earth Observing One, Sensorweb, ESA’s Rosetta Orbiter, and M2020. He has been awarded five NASA Medals in 1997, 2000, 2007, 2015, and 2025 for development and deployment of AI technologies for space missions. He has supported numerous government bodies including the Defense Science Board and the Air Force Scientific Advisory Board.  He was appointed by Congress to the National Security Commission on Artificial Intelligence (2018-2021).  He also served on the Army Science Board from 2023-2025.
 
 ## Invited Talk by [NICK HAWES](https://eng.ox.ac.uk/people/nick-hawes)
-<img src="nick-hawes-happy.jpeg" alt="Alt Text" width="300">
+<img src="https://www.dropbox.com/scl/fi/ia5sa3wyxfwx9tys9q6qy/nick-hawes-happy.jpeg" alt="Alt Text" width="300">
 
 *Title*: Long-Range Underwater Glider Planning Under Uncertainty
 
