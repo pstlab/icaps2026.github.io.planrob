@@ -16,6 +16,16 @@ From a planning and scheduling perspective – and for sequential decision makin
 
 Reliability of data-driven artifacts, in particular ML classifier robustness and fairness, is one of the key research issues in other sub-areas of AI for quite some time already. Yet the topic has so far been scarcely addressed at ICAPS, whose focus in planning and learning has so far been mainly on plan-generation performance. The organizers of this workshop believe that this needs to change, as it is important that ICAPS contributes to address the reliable AI challenge. We furthermore believe that ICAPS is in a good position to make such a contribution, as the combination of symbolic and data-driven methods is a key avenue for obtaining reliable AI. The workshop aims at establishing an ICAPS sub-community focusing on this vision.
 
+## Accepted Papers
+- Dominik Drexler, Markus Fritzsche, Farid Musayev, and Simon Ståhlberg – **Prompt, Prove, Patch: The Neuro-Symbolic Loop for General Policy Synthesis**
+- Rolando Fernandez, Caleb Probine, Tyler Lee, Jeffrey Chen, Erez Karpas, Muhammad Arrasy Rahman, Peter Stone, and Ufuk Topcu – **Social Laws for Multi-agent Coordination in Stochastic Environments**
+- Mingyu Hao, Sylvie Thiebaux, and Felipe Trevizan – **Self-Supervised Improvement of Learned Search Guidance**
+- Arnaud Lequen – **Learning Interpretable Classifiers for PDDL Planning**
+- Mariam Musavi, Johannes K. Fichte, and Daniel Gnad – **Learning Object Priorities for Partial Grounding**
+- Farid Musayev, Dominik Drexler, Daniel Gnad, and Jendrik Seipp – **A Comparison of Sampling Strategies for Learning Policies**
+- Windy Phung, Arnaud Lequen, Dominik Drexler, and Jendrik Seipp – **LLM-Evolved Pattern Generators for Optimal Classical Planning**
+- Marcel Schubert and Daniel Höller – **Safety Verification of Additive Tree Ensemble Policies via Symbolic Search**
+
 
 ## Topics of Interest
 
