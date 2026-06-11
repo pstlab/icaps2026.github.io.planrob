@@ -17,20 +17,21 @@ Paper submission deadline extended to 2nd of May, 2026.
 AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robots to perform autonomous, flexible, and interactive behaviors, but they must be tightly integrated into the overall robot architecture in order to be effective. This requires strong collaboration between researchers from both the AI and the Robotics communities. To foster this, the workshop aims to provide a stable, long-term forum where researchers from both the P&S and Robotics communities can openly discuss relevant issues such as research and development progress, future directions, and open challenges related to P&S when applied to Robotics. Recent advances in large-scale learning models, multimodal perception, and whole-body robotic systems are reshaping the landscape of planning and execution. The 2026 edition of PlanRob explicitly aims to address these emerging challenges, with a focus on integrating symbolic, geometric, and learning-based approaches for robust, scalable, and adaptive robot autonomy.
 
 ## Accepted Papers
-Eyal Tadmor, Erez Karpas and Marc Toussaint. Data-Driven Metareasoning in Search in Infinite Completion Trees for Task and Motion Planning
-Andrew Coles, Erez Karpas, Shahaf Shperberg, Solomon Eyal Shimony and Wheeler Ruml. Situated Planning with Soft Goals
-Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam. DELTA: Decentralized Delay-Aware Executive Layer with Task Anticipation for Multi-UAV Systems
-Lidor Erez, Shahaf Shperberg and Ayal Taitler. From Kinematics to Dynamics: Learning to Refine Hybrid Plans for Physically Feasible Execution
-Sarthak Chittawar, Vansh Garg, Aditya Vadali, Krish Pandya, Rohit Jayanti, Sourav Garg and K Madhava Krishna. PixelLoop: Shortcut Topological Navigation with Pixel-Level Loop Closures
-Simon Ferrier, Alessandro Renzaglia and Olivier Simonin. AttrAP: a New Heuristic-Based Method to Solve Heterogeneous MRTA Problems Minimizing the Makespan
-Paolo Forte, Uwe Köckemann and Alessandro Saffiotti. EuroCore: Enabling Reproducible Planning and Robotics Workflows\\ on the European AI-on-Demand Platform
-Guy Azran, Michael Navat and Sarah Keren. Robust Visual Planning under Partial Observability and Perceptual Uncertainty
-Qi Heng Ho, Zachary Sunberg and Morteza Lahijanian. Sampling-based Task and Kinodynamic Motion Planning under Semantic Uncertainty
-Samantha Papais and Christian Muise. Using Automated Planning for the Safety Protocol Verification of Space Robotics
-Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda. Fixed-Haven Reservation for Online Multi-Agent Pickup and Delivery in Dense Warehouses
-Gloria Beraldo, Alessandro Umbrico and Andrea Orlandini. Toward a Unified Framework for Dynamic Task Allocation and Adaptive Synergy in Hybrid Emergency Response Teams
-Mohammad Ibrahim Memon, Ujjwal Patil, Iman Awaad and Youssef Mahmoud Youssef. Learning Interpretable Scheduling Policies for Online Multi-Robot Task Allocation via Inductive Logic Programming
-Yigit Yildirim, Giuseppe Rauso, Riccardo Caccavale and Alberto Finzi. Inverse Manipulation through Symbolic Planning and Residual Operator Learning
+<!-- ## Accepted Papers
+* **** Eyal Tadmor, Erez Karpas and Marc Toussaint. Data-Driven Metareasoning in Search in Infinite Completion Trees for Task and Motion Planning<br>
+* **** Andrew Coles, Erez Karpas, Shahaf Shperberg, Solomon Eyal Shimony and Wheeler Ruml. Situated Planning with Soft Goals<br>
+* **** Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam. DELTA: Decentralized Delay-Aware Executive Layer with Task Anticipation for Multi-UAV Systems<br>
+* **** Lidor Erez, Shahaf Shperberg and Ayal Taitler. From Kinematics to Dynamics: Learning to Refine Hybrid Plans for Physically Feasible Execution<br>
+* **** Sarthak Chittawar, Vansh Garg, Aditya Vadali, Krish Pandya, Rohit Jayanti, Sourav Garg and K Madhava Krishna. PixelLoop: Shortcut Topological Navigation with Pixel-Level Loop Closures<br>
+* **** Simon Ferrier, Alessandro Renzaglia and Olivier Simonin. AttrAP: a New Heuristic-Based Method to Solve Heterogeneous MRTA Problems Minimizing the Makespan<br>
+* **** Paolo Forte, Uwe Köckemann and Alessandro Saffiotti. EuroCore: Enabling Reproducible Planning and Robotics Workflows\\ on the European AI-on-Demand Platform<br>
+* **** Guy Azran, Michael Navat and Sarah Keren. Robust Visual Planning under Partial Observability and Perceptual Uncertainty<br>
+* **** Qi Heng Ho, Zachary Sunberg and Morteza Lahijanian. Sampling-based Task and Kinodynamic Motion Planning under Semantic Uncertainty<br>
+* **** Samantha Papais and Christian Muise. Using Automated Planning for the Safety Protocol Verification of Space Robotics<br>
+* **** Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda. Fixed-Haven Reservation for Online Multi-Agent Pickup and Delivery in Dense Warehouses<br>
+* **** Gloria Beraldo, Alessandro Umbrico and Andrea Orlandini. Toward a Unified Framework for Dynamic Task Allocation and Adaptive Synergy in Hybrid Emergency Response Teams<br>
+* **** Mohammad Ibrahim Memon, Ujjwal Patil, Iman Awaad and Youssef Mahmoud Youssef. Learning Interpretable Scheduling Policies for Online Multi-Robot Task Allocation via Inductive Logic Programming<br>
+* **** Yigit Yildirim, Giuseppe Rauso, Riccardo Caccavale and Alberto Finzi. Inverse Manipulation through Symbolic Planning and Residual Operator Learning -->
 
 ## Invited Talk by [STEVE CHIEN](https://ai.jpl.nasa.gov/public/people/chien/)
 <img src="https://ai.jpl.nasa.gov/public/people/chien/images/chien.jpg" alt="Alt Text" width="300">
